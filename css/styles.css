@@ -140,7 +140,7 @@ ul {
 /* ---------------OUR TEAM---------------- */
 
 .team {
-  background: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .section-title {
@@ -153,13 +153,14 @@ ul {
   text-transform: capitalize;
 }
 
-.team-list {
-  color: #ffffff;
-}
-/* .team-item {
-}
-.team-img {
+/* .team-list {
+  background-color: #ffffff;
 } */
+.team-item {
+  background-color: #ffffff;
+}
+/* .team-img {
+}  */
 
 .subtitle {
   color: #2e2f42;
